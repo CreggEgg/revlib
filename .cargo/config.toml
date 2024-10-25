@@ -1,0 +1,2 @@
+[target.arm-unknown-linux-gnueabi]
+linker="C:\\Users\\CID\\Downloads\\WPILib_Windows-2024.3.2-artifacts\\roborio\\bin\\arm-frc2024-linux-gnueabi-gcc.exe"
